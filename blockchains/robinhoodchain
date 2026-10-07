@@ -1,0 +1,19 @@
+{
+  "name": "USDT List",
+  "timestamp": "2026-10-07T21:34:50.572Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 4663,
+      "address": "0xb2D12c3aF6fA5b89b77402139507f17AF860813A",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://deployatoken.com/uploads/b0d2ccf555d9ec3fb4e6962504d2ba6aa8e8f996.png"
+    }
+  ]
+}
